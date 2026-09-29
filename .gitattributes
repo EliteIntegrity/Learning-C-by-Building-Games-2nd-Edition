@@ -2,3 +2,9 @@
 # all, as the first edition's uploads did. Visual Studio, Clang, GCC, and
 # CMake all read Windows line endings.
 * -text
+
+# SDL, SDL_image, and SDL_ttf are other people's code, so GitHub's language
+# bar counts only the book's projects, which are C++.
+SDL3[[:space:]]Projects/SDL3/** linguist-vendored
+SDL3[[:space:]]Projects/SDL3_image/** linguist-vendored
+SDL3[[:space:]]Projects/SDL3_ttf/** linguist-vendored
