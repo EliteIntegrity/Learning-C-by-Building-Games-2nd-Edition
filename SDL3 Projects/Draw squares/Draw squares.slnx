@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Draw squares.vcxproj" Id="558c2c4f-c0bf-4830-8646-927331641111" />
+</Solution>

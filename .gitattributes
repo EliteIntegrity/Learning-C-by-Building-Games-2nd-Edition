@@ -1,0 +1,4 @@
+# Keep every file exactly as it is in the book's projects, line endings and
+# all, as the first edition's uploads did. Visual Studio, Clang, GCC, and
+# CMake all read Windows line endings.
+* -text

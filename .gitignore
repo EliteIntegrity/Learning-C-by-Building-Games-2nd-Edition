@@ -1,0 +1,22 @@
+# Visual Studio's working files and build output (only the projects' own x64
+# folders: SDL's lib/x64 folders hold the libraries every project links to)
+.vs/
+SDL3 Projects/*/x64/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.exp
+
+# CMake (Appendix B): the build folder, and each project's program
+build/
+SDL3 Projects/*/game
+SDL3 Projects/*/game.exe
+
+# Files the games write as they run
+rogue_save.txt
+
+# make_repo.py's marker, so it can refresh this folder
+.made_by_make_repo
