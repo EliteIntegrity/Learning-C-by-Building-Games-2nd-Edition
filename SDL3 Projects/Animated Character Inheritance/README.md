@@ -36,7 +36,3 @@ An Empty Project with Chapter 11's settings (C++20, the SDL and SDL_image
 include and library folders, `SDL3.lib` and `SDL3_image.lib`), the thirteen
 source files, `SDL3.dll` and `SDL3_image.dll` beside them, and the `assets`
 folder, which holds six of the Runner's pictures.
-
-The earlier version of this project, with an `Enemy` class derived from
-`Entity`, is kept in `_pre-revision backup/SDL3 Projects/Animated Character
-Inheritance`.

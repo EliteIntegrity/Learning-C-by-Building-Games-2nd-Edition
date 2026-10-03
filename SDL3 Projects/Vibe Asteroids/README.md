@@ -21,8 +21,6 @@ will differ from mine.
   hit, drag that can't reverse the ship, delta time capped at `MAX_DELTA`,
   waves that never arrive beside the ship, and a lost ship that waits for a
   clear middle before it comes back.
-- The AI's own version, before those edits and fixes, is kept in
-  `_pre-revision backup/SDL3 Projects/Vibe Asteroids`.
 
 ## Controls
 

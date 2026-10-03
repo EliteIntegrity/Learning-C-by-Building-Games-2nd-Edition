@@ -21,6 +21,3 @@ holds each kind's name and color. Plain structs and functions, no classes.
 An Empty Project with the Chapter 1 settings (C++20, the SDL include and
 library folders, `SDL3.lib`), `main.cpp`, and `SDL3.dll` beside it. Core
 SDL 3 only, with no add-on libraries.
-
-The original version of this project is kept in
-`_pre-revision backup/SDL3 Projects/Loot Grid`.

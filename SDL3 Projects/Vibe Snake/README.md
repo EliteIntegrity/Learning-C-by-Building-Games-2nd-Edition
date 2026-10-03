@@ -16,8 +16,6 @@ from mine.
 - `stepSnake` holds the game's rules: the queued turn from `pendingDir`, the
   walls, the snake's own body (skipping the tail, which is leaving), and
   eating, growing, and speeding up.
-- The AI's own first version, before those edits, is kept in
-  `_pre-revision backup/SDL3 Projects/Vibe Snake`.
 
 ## Controls
 
